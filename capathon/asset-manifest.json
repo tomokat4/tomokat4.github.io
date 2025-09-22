@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/capathon/static/css/main.a12f536b.css",
+    "main.js": "/capathon/static/js/main.41b06f9a.js",
+    "static/js/453.2e245329.chunk.js": "/capathon/static/js/453.2e245329.chunk.js",
+    "index.html": "/capathon/index.html",
+    "main.a12f536b.css.map": "/capathon/static/css/main.a12f536b.css.map",
+    "main.41b06f9a.js.map": "/capathon/static/js/main.41b06f9a.js.map",
+    "453.2e245329.chunk.js.map": "/capathon/static/js/453.2e245329.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a12f536b.css",
+    "static/js/main.41b06f9a.js"
+  ]
+}
