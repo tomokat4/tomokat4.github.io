@@ -1,0 +1,3 @@
+    include:
+      - _my_data_folder
+      - _another_file.md
